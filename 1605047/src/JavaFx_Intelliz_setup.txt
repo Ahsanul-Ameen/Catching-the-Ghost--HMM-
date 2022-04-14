@@ -1,0 +1,4 @@
+https://openjfx.io/openjfx-docs/#IDE-Intellij
+
+
+PATH: javafx-sdk-11.0.2/lib
